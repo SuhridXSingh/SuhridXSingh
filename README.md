@@ -20,14 +20,7 @@
 
 ### GitHub Stats  
 
-#### Neon Vibe (Tokyo Night)  
-![Suhrid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhridXSingh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)  
-
-#### Minimal Clean (Onedark)  
-![Suhrid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhridXSingh&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true)  
-
-#### Retro Contrast (Gruvbox)  
-![Suhrid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhridXSingh&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&hide_border=true)  
+![Suhrid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhridXSingh&show_icons=true&theme=tokyonight&hide_rank=false)
 
 ---
 
