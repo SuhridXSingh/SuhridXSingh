@@ -1,31 +1,44 @@
-👋 Hey there, I’m Suhrid
+👋 Hey there, I’m Suhrid  
 
 🐍 Python Enthusiast | 📊 AI & Data Science Learner | 🤖 Future ML Engineer  
 
 🌱 Currently exploring Machine Learning, Data Science, and AI concepts.  
-💻 Python is my go to language for problem solving, data analysis, and experiments.  
+💻 Python is my go-to language for problem solving, data analysis, and experiments.  
 📚 Documenting my coding journey with Exercism solutions and practice projects.  
 🚀 Interested in turning ideas into models that can learn, predict, and adapt.  
-🔧 Tinkering with web development on the side mostly for fun and to sharpen fundamentals.  
+🔧 Tinkering with web development on the side — mostly for fun and to sharpen fundamentals.  
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
+---
+
+### GitHub Stats  
+
+#### Neon Vibe (Tokyo Night)  
+![Suhrid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhridXSingh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)  
+
+#### Minimal Clean (Onedark)  
+![Suhrid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhridXSingh&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true)  
+
+#### Retro Contrast (Gruvbox)  
+![Suhrid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhridXSingh&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&hide_border=true)  
 
 ---
 
-### 📊 GitHub Stats
-![Suhrid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhridXSingh&show_icons=true&theme=radical)
+### Most Used Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhridXSingh&layout=compact&theme=tokyonight&hide_border=true)  
 
 ---
 
-### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhridXSingh&layout=compact&theme=radical)
+✨ *Always building, always learning — one commit at a time.*  
+
 
 
 
