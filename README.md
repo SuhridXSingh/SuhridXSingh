@@ -1,12 +1,12 @@
-👋 Hey there, I’m Suhrid  
+ Hey there, I’m Suhrid  
 
-🐍 Python Enthusiast | 📊 AI & Data Science Learner | 🤖 Future ML Engineer  
+ Python Enthusiast | AI & Data Science Learner | Future ML Engineer  
 
-🌱 Currently exploring Machine Learning, Data Science, and AI concepts.  
-💻 Python is my go-to language for problem solving, data analysis, and experiments.  
-📚 Documenting my coding journey with Exercism solutions and practice projects.  
-🚀 Interested in turning ideas into models that can learn, predict, and adapt.  
-🔧 Tinkering with web development on the side — mostly for fun and to sharpen fundamentals.  
+ Currently exploring Machine Learning, Data Science, and AI concepts.  
+ Python is my go-to language for problem solving, data analysis, and experiments.  
+ Documenting my coding journey with Exercism solutions and practice projects.  
+ Interested in turning ideas into models that can learn, predict, and adapt.  
+ Tinkering with web development on the side — mostly for fun and to sharpen fundamentals.  
 
 ---
 
@@ -16,6 +16,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
+---
 
 ### Most Used Languages  
 
@@ -23,7 +24,7 @@
 
 ---
 
-✨ *Always building, always learning — one commit at a time.*  
+*Always building, always learning — one commit at a time.*  
 
 
 
