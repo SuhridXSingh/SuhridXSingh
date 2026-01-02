@@ -1,46 +1,34 @@
- 👋 Hey there, I’m Suhrid  
+# <img src="https://media.giphy.com/media/l0MYDGA3Du1hBR4xG/giphy.gif" width="30"> Suhrid Singh
 
-  Python Enthusiast | AI & Data Science Learner | Future ML Engineer  
+### 👨‍💻 Open Source Contributor | 🧠 AI & Data Science | 🗡️ C++
 
- -Currently exploring Machine Learning, Data Science, and AI concepts.  
- -Python is my go-to language for problem solving, data analysis, and experiments.  
- -Documenting my coding journey with Exercism solutions and practice projects.  
- -Interested in turning ideas into models that can learn, predict, and adapt.  
- -Tinkering with web development on the side — mostly for fun and to sharpen fundamentals.  
+> *"Maximum Effort."*
+
+I don't just consume libraries; I fix them. Currently specializing in **Artificial Intelligence**, **Data Science**, and **High-Performance Computing**.
 
 ---
 
-### Languages & Tools 
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
----
-
-### Most Used Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhridXSingh&layout=compact&theme=tokyonight&hide_border=true)  
+### 🚀 **Current Mission**
+- 🐼 **Pandas:** Merged contributor to the core codebase (CI/CD & Documentation).
+- 🧠 **Scikit-learn:** Modernizing internal examples and visualization logic.
+- ⚡ **C++:** Optimizing logic and grinding DSA for low-level mastery.
+- 🐍 **Python:** Building scalable tools for the AI stack.
 
 ---
 
-*Always building, always learning — one commit at a time.*  
+### ⚔️ **The Arsenal**
 
+**Core Logic**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+**Data & AI**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+**Infrastructure**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!--
-**SuhridXSingh/SuhridXSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 **Damage Report**
+![Suhrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhridXSingh&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhridXSingh&layout=compact&theme=radical&hide_border=true)
