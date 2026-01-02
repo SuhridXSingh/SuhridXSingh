@@ -30,7 +30,5 @@ I don't just consume libraries; I fix them. Currently specializing in **Artifici
 ---
 
 ### 📊 **Damage Report**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhridXSingh&show_icons=true&theme=radical&hide_border=true" alt="Suhrid's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhridXSingh&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="45%" />
-</p>
+![Suhrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhridXSingh&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhridXSingh&layout=compact&theme=radical&hide_border=true)
