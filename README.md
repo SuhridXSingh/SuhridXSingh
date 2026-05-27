@@ -31,3 +31,8 @@ I don't just consume libraries; I fix them. Currently specializing in **Artifici
 
 ### **Badges Earned**
 
+<p align="center">
+  <img src="gssoc-badge-top_100.png" alt="GSSoC Top 100 Contributors" width="150"/>
+  
+  <img src="gssoc-badge-power_contributor.png" alt="GSSoC Power Contributor Badge" width="150"/>
+</p>
